@@ -98,6 +98,7 @@ anagram-checker-python/
 The purpose of this project is to practice Python string manipulation and logical problem-solving by building a simple Anagram Checker.
 <br>
 Author 
+<br>
 **Muhammad Hassan Mussana**
 
   
